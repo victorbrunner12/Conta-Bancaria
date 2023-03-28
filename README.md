@@ -94,3 +94,4 @@ Essa é uma classe que verifica informações de usuário, por enquanto tem apen
 
 verifica_cpf_valido(cpf)  
 Essa função é responsável por verificar se o CPF do usuário é válido. Se for válido ele retorna True, se não False.
+O parâmetro 'cpf' é o CPF do usuário.

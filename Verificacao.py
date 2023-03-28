@@ -59,7 +59,3 @@ class Verificacao():
                     
         except Exception as ex:
             print(ex)
-
-
-# if __name__ == '__main__':
-#     Verificacao().verifica_cpf_valido()
